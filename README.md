@@ -1,2 +1,2 @@
 # demos-car-dealer-website
-Car dealer website demp
+A sample website template I got. 
